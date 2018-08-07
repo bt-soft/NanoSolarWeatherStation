@@ -1,2 +1,2 @@
 # NanoSolarWeatherStation
-Arduino weather station with external external measuring unit and solar power supply
+Arduino weather station with external measuring unit and solar power supply
